@@ -2,3 +2,5 @@ git‚Ì˜A”‚ğ‚µ‚Ä‚¢‚Ü‚·B
 saaaa
 aaa
 dafafa
+test
+git status
